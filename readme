@@ -1,1 +1,28 @@
 111
+
+
+Layout Estimation:
+
+DuLa-Net: https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_DuLa-Net_A_Dual-Projection_Network_for_Estimating_Room_Layouts_From_a_CVPR_2019_paper.pdf
+
+HorizonNet: https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_HorizonNet_Learning_Room_Layout_With_1D_Representation_and_Pano_Stretch_CVPR_2019_paper.pdf
+
+LED2Net: https://arxiv.org/pdf/2104.00568
+
+DOPNet: https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Disentangling_Orthogonal_Planes_for_Indoor_Panoramic_Room_Layout_Estimation_With_CVPR_2023_paper.pdf
+
+HoHoNet: https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_HoHoNet_360_Indoor_Holistic_Understanding_With_Latent_Horizontal_Features_CVPR_2021_paper.pdf
+
+Seg2Reg: https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Seg2Reg_Differentiable_2D_Segmentation_to_1D_Regression_Rendering_for_360_CVPR_2024_paper.pdf
+
+Single-shot cuboids: https://www.sciencedirect.com/science/article/pii/S0262885621000652
+
+Layouts from Panoramic Images with Geometry and Deep Learning: https://arxiv.org/pdf/1806.08294
+
+PanoContext: https://oar.princeton.edu/bitstream/88435/pr1qg23/1/PanoContext.pdf
+
+3D RoomLayout Recovery Generalizing across Manhattan and Non-Manhattan: https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf
+
+SSLayout360: https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf
+
+SemiLayout360: https://arxiv.org/pdf/2503.01114?
