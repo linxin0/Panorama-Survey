@@ -97,3 +97,41 @@ HoloTime: https://arxiv.org/pdf/2504.21650
 
 Scene4U: https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Scene4U_Hierarchical_Layered_3D_Scene_Reconstruction_from_Single_Panoramic_Image_CVPR_2025_paper.pdf
 
+
+
+Text to image:
+
+3D modeling-based methods:
+
+DreamScene360: https://arxiv.org/pdf/2404.06903
+
+SceneDreamer360: https://arxiv.org/pdf/2408.13711
+
+LayerPano3D: https://arxiv.org/pdf/2408.13252
+
+HoloDreamer: https://arxiv.org/pdf/2407.15187
+
+
+Geometric alignment-based methods: 
+
+SphereDiffusion: https://ojs.aaai.org/index.php/AAAI/article/view/28429
+
+SphereDiff: https://arxiv.org/pdf/2504.14396?
+
+Diffusion360: https://arxiv.org/pdf/2311.13141
+
+StitchDiffusion: https://openaccess.thecvf.com/content/WACV2024/papers/Wang_Customizing_360-Degree_Panoramas_Through_Text-to-Image_Diffusion_Models_WACV_2024_paper.pdf
+
+Panfuse: https://openaccess.thecvf.com/content/CVPR2024/papers/Zhang_Taming_Stable_Diffusion_for_Text_to_360_Panorama_Image_Generation_CVPR_2024_paper.pdf
+
+Panofree: https://link.springer.com/chapter/10.1007/978-3-031-73383-3_9
+
+MagicScroll: https://cislab.hkust-gz.edu.cn/media/documents/MagicScroll_Enhancing_Immersive_Storytelling_with_Controllable_Scroll_Image_Generation.pdf
+
+PanoGen: https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf
+
+PanoGen++: https://arxiv.org/pdf/2503.09938?
+
+VLN-RAM: https://arxiv.org/pdf/2503.18065?
+
+Omni2: https://arxiv.org/pdf/2504.11379
