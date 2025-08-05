@@ -209,18 +209,18 @@
 
 ### Multimodel-audio:
 
-- [Audible Panorama](https://dl.acm.org/doi/abs/10.1145/3290605.3300851)
-- [Scene-Aware Audio for 360° Videos](https://arxiv.org/pdf/1805.04792)
-- [Self-Supervised Generation of Spatial Audio for 360° Video (NeurIPS 2018)](https://proceedings.neurips.cc/paper/2018/file/01161aaa0b6d1345dd8fe4e481144d84-Paper.pdf)
-- [AVS-ODV](https://arxiv.org/pdf/2311.05190)
-- [PAV-SOD](https://dl.acm.org/doi/abs/10.1145/3565267)
-- [PAV-SOR](https://dl.acm.org/doi/abs/10.1145/3664647.3681070)
-- [Pano-AVQA (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf)
-- [Self-Supervised Neural Audio-Visual Sound Source Localization via Probabilistic Spatial Modeling](https://arxiv.org/pdf/2007.13976)
-- [OAVQAD](https://arxiv.org/pdf/2307.10813)
-- [HOA-SSR](https://arxiv.org/pdf/2205.08007)
-- [Semantic Object Prediction and Spatial Sound Super-Resolution with Binaural Sounds](https://arxiv.org/pdf/2003.04210)
-- [Sonic4D](https://arxiv.org/pdf/2506.15759)
+- [Audible Panorama (CHI 2019)](https://dl.acm.org/doi/abs/10.1145/3290605.3300851)  
+- [Li et al. (TOG 2018)](https://arxiv.org/pdf/1805.04792)  
+- [Morgado et al. (NeurIPS 2018)](https://proceedings.neurips.cc/paper/2018/file/01161aaa0b6d1345dd8fe4e481144d84-Paper.pdf)  
+- [AVS-ODV (ICIG 2023)](https://arxiv.org/pdf/2311.05190)  
+- [PAV-SOD (ACM Transactions on Multimedia Computing, Communications and Applications 2023)](https://dl.acm.org/doi/abs/10.1145/3565267)  
+- [PAV-SOR (ACM MM 2024)](https://dl.acm.org/doi/abs/10.1145/3664647.3681070)  
+- [Pano-AVQA (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Yun_Pano-AVQA_Grounded_Audio-Visual_Question_Answering_on_360deg_Videos_ICCV_2021_paper.pdf)  
+- [Masuyama et al. (IROS 2020)](https://arxiv.org/pdf/2007.13976)  
+- [Vasudevan et al. (ECCV 2020)](https://arxiv.org/pdf/2003.04210)
+- [OAVQA (CAAI 2023)](https://arxiv.org/pdf/2307.10813)
+- [Fela et al. (ICMEW 2022)](https://arxiv.org/pdf/2205.08007)  
+- [Sonic4D (arXiv 2025)](https://arxiv.org/pdf/2506.15759)  
 
 
 
