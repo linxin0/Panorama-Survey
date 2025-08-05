@@ -12,6 +12,7 @@
 - [OPDN (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.pdf)
 - [FATO (ACMMM Asia 2024)](https://dl.acm.org/doi/pdf/10.1145/3696409.3700232)
 - [GDGT-OSR (TCSVT 2025)](https://arxiv.org/pdf/2406.10869)
+- [Cao et al. (Signal, Image and Video Processing, 2025)](https://link.springer.com/article/10.1007/s11760-025-03963-6)
 - 
  
 
