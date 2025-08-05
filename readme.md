@@ -23,7 +23,7 @@
 - [Cai et al. (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/27846)
 - [OmniSSR (ECCV 2024)](https://arxiv.org/pdf/2404.10312)
 - [DiffOSR (KBS 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002916)
-- [RealOSR (arXiv 2024)](https://arxiv.org/abs/2412.09646)
+- [RealOSR (arXiv 2024)](https://arxiv.org/pdf/2412.09646)
  
 
 ### Layout Estimation
