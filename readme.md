@@ -1,5 +1,13 @@
 # From Perspective to Panorama Survey.
 
+
+### Super Resolution
+
+## Image:
+- [LAUNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf)
+- [360-SISR (ICIP 2021)](https://ieeexplore.ieee.org/abstract/document/9506233/)
+
+
 ### Layout Estimation
 
 - [DuLa-Net (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_DuLa-Net_A_Dual-Projection_Network_for_Estimating_Room_Layouts_From_a_CVPR_2019_paper.pdf)
