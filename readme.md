@@ -1,9 +1,10 @@
 # From Perspective to Panorama Survey.
 
 
-### Super Resolution
+## Super Resolution
 
-## Image:
+### Image:
+
 - [LAUNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [360-SISR (ICIP 2021)](https://ieeexplore.ieee.org/abstract/document/9506233/)
 - [OSRGAN (International Workshop on Multimedia Signal Processing 2019)](https://arxiv.org/pdf/1908.04297)
@@ -24,7 +25,71 @@
 - [OmniSSR (ECCV 2024)](https://arxiv.org/pdf/2404.10312)
 - [DiffOSR (KBS 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002916)
 - [RealOSR (arXiv 2024)](https://arxiv.org/pdf/2412.09646)
- 
+
+
+### Video:
+- [SMFN (EAAI 2024)](https://arxiv.org/pdf/2008.10320)
+- [S3PO (TMM 2023)](https://arxiv.org/pdf/2506.14803)
+- [STDAN (arXiv 2024)](https://arxiv.org/pdf/2410.11506?)
+- [Wang et al. (BDIOT 2023)](https://dl.acm.org/doi/abs/10.1145/3617695.3617721)
+
+
+## Reflection Removal:
+
+
+- [Hong et al. (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf)
+- [PAR2Net (TPAMI 2023)](https://ieeexplore.ieee.org/abstract/document/10153662/)
+- [ZS360 (ECCV 2022)](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_31)
+- [Park et al. (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.pdf)
+
+## Restoration
+
+### Denoising
+
+- [Bigot et al. (VISAPP 2007)]([https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf](https://www.scitepress.org/Papers/2007/20523/20523.pdf))
+- [Iazzi et al. (Research Journal of Applied Sciences, Engineering and Technology 2014)](https://www.airitilibrary.com/Article/Detail/20407467-201411-201503110021-201503110021-1966-1972)
+- [Phan et al. (Signal Processing Letters 2020)](https://www.researchgate.net/profile/Khoa-Phan/publication/339895846_A_Space-Variant_Nonlinear_Algorithm_for_Denoising_Omnidirectional_Images_Corrupted_by_Poisson_Noise/links/5ff5bf1592851c13fef06681/A-Space-Variant-Nonlinear-Algorithm-for-Denoising-Omnidirectional-Images-Corrupted-by-Poisson-Noise.pdf)
+- [Spheredrunet (ISMAR-Adjunct 2023)](https://hal.science/hal-04197479/document)
+
+### Deblurring
+- [Li et al. (International Journal of Optics 2014)](https://onlinelibrary.wiley.com/doi/pdf/10.1155/2014/732937)
+- [Peng et al. (SMC 2012)](https://ieeexplore.ieee.org/abstract/document/6378313/)
+- [Liu et al. (Optik, 2014)](https://www.sciencedirect.com/science/article/abs/pii/S0030402613008231)
+- [Alibouch et al. (International Symposium on Ubiquitous Networking 2021)](https://link.springer.com/chapter/10.1007/978-3-030-86356-2_25)
+
+### Dehazing
+- [Zhao et al. (TVCG 2023)](https://ieeexplore.ieee.org/abstract/document/10005621/)
+
+## Quality Assessment
+
+### Image
+- [MC360IQA (IEEE Journal of Selected Topics in Signal Processing 2019)](https://drive.google.com/file/d/1EeJ8lzKMrFb5OKRa2xAh99NFNYzieoOn/view)
+- [VGCN (TCSVT 2020)](https://arxiv.org/pdf/2002.09140)
+- [TVFormer (ACMMM 2022)](https://dl.acm.org/doi/abs/10.1145/3503161.3547748)
+- [JointNet (ACMMM 2022)](https://dl.acm.org/doi/abs/10.1145/3503161.3548175)
+- [DeepVR-IQA (TCSVT 2019)](https://ieeexplore.ieee.org/abstract/document/8638985/)
+- [Assessor360 (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/ccf4a7323b9ee3e54bf77f0e876b3f8b-Paper-Conference.pdf)
+- [ST360IQ (ICASSP 2023)](https://arxiv.org/pdf/2303.06907)
+- [VSBNet (TCSVT 2022)](https://ieeexplore.ieee.org/abstract/document/9964240/)
+- [SCPOIQA (TIM 2024)](https://ieeexplore.ieee.org/abstract/document/10731918/)
+- [WS-PSNR (IEEE Signal Processing Letters 2017)](https://ieeexplore.ieee.org/abstract/document/7961186/)
+- [WS-SSIM (ICSP 2018)](https://ieeexplore.ieee.org/abstract/document/8652269/)
+- [S-PSNR (ICUFN 2017)](https://www.researchgate.net/profile/Tran-Huyen-10/publication/318751919_An_evaluation_of_quality_metrics_for_360_videos/links/5d29d144458515c11c2b7494/An-evaluation-of-quality-metrics-for-360-videos.pdf)
+- [CPBQA (TIP 2021)](https://ieeexplore.ieee.org/abstract/document/9334423/)
+- [BOIQA (TCSVT 2021)](https://ieeexplore.ieee.org/abstract/document/9614114/)
+- [MFILGN (TCSVT 2024)](https://arxiv.org/pdf/2102.11393)
+- [Yang et al. (arXiv 2025)](https://arxiv.org/pdf/2506.21925)
+
+### Video
+
+- [OV-PSNR (TMM, 2020)](https://ieeexplore.ieee.org/abstract/document/9296376/)
+- [V-CNN (CVPR, 2019)](https://ieeexplore.ieee.org/abstract/document/8953510/)
+- [360-VQA (ICME, 2020)](https://infoscience.epfl.ch/server/api/core/bitstreams/5f92fd75-54b3-4d3d-b9ce-fb8ffabc2b0e/content)
+- [CIQNet (IEEE Transactions on Broadcasting, 2024)](https://ieeexplore.ieee.org/abstract/document/10380455/)
+- [NR-OVQA (Optik, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0030402620317046)
+
+
+
 
 ### Layout Estimation
 
