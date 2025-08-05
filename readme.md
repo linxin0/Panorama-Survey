@@ -1,56 +1,35 @@
 # From Perspective to Panorama Survey.
 
-### Layout Estimation:
+### Layout Estimation
 
 - [DuLa-Net (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_DuLa-Net_A_Dual-Projection_Network_for_Estimating_Room_Layouts_From_a_CVPR_2019_paper.pdf)
+- [HorizonNet (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_HorizonNet_Learning_Room_Layout_With_1D_Representation_and_Pano_Stretch_CVPR_2019_paper.pdf)
+- [LED2Net (arXiv 2021)](https://arxiv.org/pdf/2104.00568)
+- [DOPNet (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Disentangling_Orthogonal_Planes_for_Indoor_Panoramic_Room_Layout_Estimation_With_CVPR_2023_paper.pdf)
+- [HoHoNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_HoHoNet_360_Indoor_Holistic_Understanding_With_Latent_Horizontal_Features_CVPR_2021_paper.pdf)
+- [Seg2Reg (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Seg2Reg_Differentiable_2D_Segmentation_to_1D_Regression_Rendering_for_360_CVPR_2024_paper.pdf)
+- [Single-shot Cuboids (ISPR 2021)](https://www.sciencedirect.com/science/article/pii/S0262885621000652)
+- [Layouts from Panoramic Images with Geometry and Deep Learning (arXiv 2018)](https://arxiv.org/pdf/1806.08294)
+- [PanoContext (Princeton)](https://oar.princeton.edu/bitstream/88435/pr1qg23/1/PanoContext.pdf)
+- [3D Room Layout Recovery (CVPRW 2022)](https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf)
+- [SSLayout360 (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf)
+- [SemiLayout360 (arXiv 2024)](https://arxiv.org/pdf/2503.01114)
 
-[RSCP^2^GAN](https://arxiv.org/pdf/2408.09241)
+### Lighting Estimation
 
-HorizonNet: https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_HorizonNet_Learning_Room_Layout_With_1D_Representation_and_Pano_Stretch_CVPR_2019_paper.pdf
+- [EnvMapNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf)
+- [SkyNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf)
+- [All-Weather Deep Outdoor Lighting Estimation (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_All-Weather_Deep_Outdoor_Lighting_Estimation_CVPR_2019_paper.pdf)
+- [Emlight (AAAI 2021)](https://ojs.aaai.org/index.php/AAAI/article/view/16440)
+- [Gmlight (arXiv 2021)](https://arxiv.org/pdf/2102.10244)
+- [SALENet (IEEE 2024)](https://ieeexplore.ieee.org/abstract/document/10794602/)
+- [Deep Parametric Indoor Lighting Estimation (ICCV 2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Gardner_Deep_Parametric_Indoor_Lighting_Estimation_ICCV_2019_paper.pdf)
+- [Lighting, Reflectance and Geometry Estimation (arXiv 2021)](https://arxiv.org/pdf/2104.09886)
+- [Deep Lighting Env Map Estimation (CVPRW 2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w38/Gkitsas_Deep_Lighting_Environment_Map_Estimation_From_Spherical_Panoramas_CVPRW_2020_paper.pdf)
+- [Editable Indoor Lighting Estimation (arXiv 2022)](https://arxiv.org/pdf/2211.03928)
+- [EverLight (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Dastjerdi_EverLight_Indoor-Outdoor_Editable_HDR_Lighting_Estimation_ICCV_2023_paper.pdf)
+- [Multi-camera Lighting Estimation (ACM TOG 2023)](https://dl.acm.org/doi/pdf/10.1145/3572864.3580337)
 
-LED2Net: https://arxiv.org/pdf/2104.00568
-
-DOPNet: https://openaccess.thecvf.com/content/CVPR2023/papers/Shen_Disentangling_Orthogonal_Planes_for_Indoor_Panoramic_Room_Layout_Estimation_With_CVPR_2023_paper.pdf
-
-HoHoNet: https://openaccess.thecvf.com/content/CVPR2021/papers/Sun_HoHoNet_360_Indoor_Holistic_Understanding_With_Latent_Horizontal_Features_CVPR_2021_paper.pdf
-
-Seg2Reg: https://openaccess.thecvf.com/content/CVPR2024/papers/Sun_Seg2Reg_Differentiable_2D_Segmentation_to_1D_Regression_Rendering_for_360_CVPR_2024_paper.pdf
-
-Single-shot cuboids: https://www.sciencedirect.com/science/article/pii/S0262885621000652
-
-Layouts from Panoramic Images with Geometry and Deep Learning: https://arxiv.org/pdf/1806.08294
-
-PanoContext: https://oar.princeton.edu/bitstream/88435/pr1qg23/1/PanoContext.pdf
-
-3D RoomLayout Recovery Generalizing across Manhattan and Non-Manhattan: https://openaccess.thecvf.com/content/CVPR2022W/OmniCV/papers/Jia_3D_Room_Layout_Recovery_Generalizing_Across_Manhattan_and_Non-Manhattan_Worlds_CVPRW_2022_paper.pdf
-
-SSLayout360: https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf
-
-SemiLayout360: https://arxiv.org/pdf/2503.01114?
-
-EnvMapNet: https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf
-
-SkyNet: https://openaccess.thecvf.com/content/CVPR2021/papers/Somanath_HDR_Environment_Map_Estimation_for_Real-Time_Augmented_Reality_CVPR_2021_paper.pdf
-
-All-Weather Deep Outdoor Lighting Estimation: https://openaccess.thecvf.com/content_CVPR_2019/papers/Zhang_All-Weather_Deep_Outdoor_Lighting_Estimation_CVPR_2019_paper.pdf
-
-Emlight: https://ojs.aaai.org/index.php/AAAI/article/view/16440
-
-Gmlight: https://arxiv.org/pdf/2102.10244
-
-SALENet: https://ieeexplore.ieee.org/abstract/document/10794602/
-
-Deep Parametric Indoor Lighting Estimation: https://openaccess.thecvf.com/content_ICCV_2019/papers/Gardner_Deep_Parametric_Indoor_Lighting_Estimation_ICCV_2019_paper.pdf
-
-Lighting, Reflectance and Geometry Estimation from 360◦ Panoramic Stereo: https://arxiv.org/pdf/2104.09886
-
-Deep Lighting Environment Map Estimation from Spherical Panoramas: https://openaccess.thecvf.com/content_CVPRW_2020/papers/w38/Gkitsas_Deep_Lighting_Environment_Map_Estimation_From_Spherical_Panoramas_CVPRW_2020_paper.pdf
-
-Editable indoor lighting estimation: https://arxiv.org/pdf/2211.03928
-
-EverLight: https://openaccess.thecvf.com/content/ICCV2023/papers/Dastjerdi_EverLight_Indoor-Outdoor_Editable_HDR_Lighting_Estimation_ICCV_2023_paper.pdf
-
-Multi-camera lighting estimation for photorealistic front-facing mobile augmented reality: https://dl.acm.org/doi/pdf/10.1145/3572864.3580337
 
 
 
