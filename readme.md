@@ -226,23 +226,23 @@
 
 ### Ladar:
 
-- [SPOMP](https://arxiv.org/pdf/2407.09902)
-- [HumanoidPano](https://arxiv.org/pdf/2503.09010)
-- [OmniColor](https://arxiv.org/pdf/2404.04693)
-- [Cross-modal Localization](https://arxiv.org/pdf/2212.02757)
-- [Spherical Multi-Modal Place Recognition for Heterogeneous Sensor Systems](https://arxiv.org/pdf/2104.10067)
-- [PanoramicVO](https://arxiv.org/pdf/2409.09287)
-- [Indoor Mobile Measurement System](https://arxiv.org/pdf/2010.14270)
-- [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
+- [SPOMP (TFR 2024)](https://arxiv.org/pdf/2407.09902)
+- [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)
+- [Ma et al. (arXiv 2020)](https://arxiv.org/pdf/2010.14270)
+- [OmniColor (ICRA 2024)](https://arxiv.org/pdf/2404.04693)
+- [Zhao et al. (arXiv 2022)](https://arxiv.org/pdf/2212.02757)
+- [Bernreiter et al. (ICRA 2021)](https://arxiv.org/pdf/2104.10067)
+- [PanoramicVO (arXiv 2024)](https://arxiv.org/pdf/2409.09287)
+- [MMPAT (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
 
 
 ### Text:
 
 - [VQA 360 (WACV 2020)](https://openaccess.thecvf.com/content_WACV_2020/papers/Chou_Visual_Question_Answering_on_360deg_Images_WACV_2020_paper.pdf)
-- [VIEW-QA](https://arxiv.org/pdf/2405.19794)
-- [OmniVQA](https://arxiv.org/pdf/2505.14197)
-- [OSR-Bench](https://arxiv.org/pdf/2505.11907)
-- [Dense360](https://arxiv.org/pdf/2506.14471)
+- [VIEW-QA (arXiv 2024)](https://arxiv.org/pdf/2405.19794)
+- [OmniVQA (arXiv 2025)](https://arxiv.org/pdf/2505.14197)
+- [OSR-Bench (arXiv 2025)](https://arxiv.org/pdf/2505.11907)
+- [Dense360 (arXiv 2025)](https://arxiv.org/pdf/2506.14471)
 
 
 
