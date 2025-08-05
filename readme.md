@@ -6,8 +6,14 @@
 ## Image:
 - [LAUNet (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Deng_LAU-Net_Latitude_Adaptive_Upscaling_Network_for_Omnidirectional_Image_Super-Resolution_CVPR_2021_paper.pdf)
 - [360-SISR (ICIP 2021)](https://ieeexplore.ieee.org/abstract/document/9506233/)
+- [OSRGAN (International Workshop on Multimedia Signal Processing 2019)](https://arxiv.org/pdf/1908.04297)
+- [OSRT (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_OSRT_Omnidirectional_Image_Super-Resolution_With_Distortion-Aware_Transformer_CVPR_2023_paper.pdf)
+- [An et al. (ICIP 2023)](https://ieeexplore.ieee.org/abstract/document/10222760/)
+- [OPDN (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.pdf)
+- [FATO (ACMMM Asia 2024)](https://dl.acm.org/doi/pdf/10.1145/3696409.3700232)
+- [GDGT-OSR (TCSVT 2025)](https://arxiv.org/pdf/2406.10869)
 - 
-
+ 
 
 ### Layout Estimation
 
