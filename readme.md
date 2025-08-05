@@ -13,7 +13,17 @@
 - [FATO (ACMMM Asia 2024)](https://dl.acm.org/doi/pdf/10.1145/3696409.3700232)
 - [GDGT-OSR (TCSVT 2025)](https://arxiv.org/pdf/2406.10869)
 - [Cao et al. (Signal, Image and Video Processing, 2025)](https://link.springer.com/article/10.1007/s11760-025-03963-6)
-- 
+- [FAOR (AAAI 2025)](https://ojs.aaai.org/index.php/AAAI/article/view/32733)
+- [MambaOSR (Entropy 2025)](https://www.mdpi.com/1099-4300/27/4/446)
+- [SRCNN_FT (VISAPP 2018)](https://pdfs.semanticscholar.org/5030/36c4a96fa9a1d5c5be3fd27d41d1c9edbf65.pdf)
+- [OESRGAN (CVPRW 2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w38/Zhang_Toward_Real-World_Panoramic_Image_Enhancement_CVPRW_2020_paper.pdf)
+- [SphereSR (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Yoon_SphereSR_360deg_Image_Super-Resolution_With_Arbitrary_Projection_via_Continuous_Spherical_CVPR_2022_paper.pdf)
+- [OmniZoomer (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Cao_OmniZoomer_Learning_to_Move_and_Zoom_in_on_Sphere_at_ICCV_2023_paper.pdf)
+- [BPOSR (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28354)
+- [Cai et al. (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/27846)
+- [OmniSSR (ECCV 2024)](https://arxiv.org/pdf/2404.10312)
+- [DiffOSR (KBS 2025)](https://www.sciencedirect.com/science/article/abs/pii/S0950705125002916)
+- [RealOSR (arXiv 2024)](https://arxiv.org/abs/2412.09646)
  
 
 ### Layout Estimation
