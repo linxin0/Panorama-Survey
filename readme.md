@@ -240,9 +240,8 @@
 
 - [VQA 360 (WACV 2020)](https://openaccess.thecvf.com/content_WACV_2020/papers/Chou_Visual_Question_Answering_on_360deg_Images_WACV_2020_paper.pdf)
 - [VIEW-QA](https://arxiv.org/pdf/2405.19794)
-- [Query-based Image Captioning](https://openreview.net/pdf?id=ZjWkQz9qXn)
 - [OmniVQA](https://arxiv.org/pdf/2505.14197)
-- [OSR](https://arxiv.org/pdf/2505.11907)
+- [OSR-Bench](https://arxiv.org/pdf/2505.11907)
 - [Dense360](https://arxiv.org/pdf/2506.14471)
 
 
