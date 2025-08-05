@@ -46,7 +46,7 @@
 
 ### Denoising
 
-- [Bigot et al. (VISAPP 2007)]([https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf](https://www.scitepress.org/Papers/2007/20523/20523.pdf))
+- [Bigot et al. (VISAPP 2007)](https://www.scitepress.org/Papers/2007/20523/20523.pdf)
 - [Iazzi et al. (Research Journal of Applied Sciences, Engineering and Technology 2014)](https://www.airitilibrary.com/Article/Detail/20407467-201411-201503110021-201503110021-1966-1972)
 - [Phan et al. (Signal Processing Letters 2020)](https://www.researchgate.net/profile/Khoa-Phan/publication/339895846_A_Space-Variant_Nonlinear_Algorithm_for_Denoising_Omnidirectional_Images_Corrupted_by_Poisson_Noise/links/5ff5bf1592851c13fef06681/A-Space-Variant-Nonlinear-Algorithm-for-Denoising-Omnidirectional-Images-Corrupted-by-Poisson-Noise.pdf)
 - [Spheredrunet (ISMAR-Adjunct 2023)](https://hal.science/hal-04197479/document)
@@ -165,8 +165,6 @@
 
 ### 3DGS:
 
-360-GS[273],ODGS[274],PanSplat [275],OmniGS[276],Splatter-360[277],OmniSplat [278],TPGS[279],ErpGS[280],OB3D[281]
-
 - [360-GS (arXiv 2024)](https://arxiv.org/pdf/2402.00763)
 - [ODGS (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/6882dbdc34bcd094e6f858c06ce30edb-Paper-Conference.pdf)
 - [PanSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf)  
@@ -186,8 +184,6 @@
 
 
 ### AIGC:
-
-DreamScene360[285],SceneDreamer360[286],4K4DGen[287],HoloTime[288],Scene4U[289]
 
 - [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
 - [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
