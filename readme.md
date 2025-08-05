@@ -30,25 +30,16 @@
 - [EverLight (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Dastjerdi_EverLight_Indoor-Outdoor_Editable_HDR_Lighting_Estimation_ICCV_2023_paper.pdf)
 - [Multi-camera Lighting Estimation (ACM TOG 2023)](https://dl.acm.org/doi/pdf/10.1145/3572864.3580337)
 
+### Completion:
+
+- [Neural Illumination](https://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Neural_Illumination_Lighting_Prediction_for_Indoor_Environments_CVPR_2019_paper.pdf)
+- [CleAR](https://arxiv.org/pdf/2411.02179)
+- [StyleLight](https://arxiv.org/pdf/2207.14811)
+- [Editable indoor lighting estimation](https://arxiv.org/pdf/2211.03928)
+- [Learning to Estimate Indoor Lighting from 3D Objects](https://arxiv.org/pdf/1806.03994)
 
 
-
-
-Completion:
-
-Neural Illumination: https://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Neural_Illumination_Lighting_Prediction_for_Indoor_Environments_CVPR_2019_paper.pdf
-
-CleAR: https://arxiv.org/pdf/2411.02179
-
-StyleLight: https://arxiv.org/pdf/2207.14811
-
-Editable indoor lighting estimation: https://arxiv.org/pdf/2211.03928
-
-Learning to Estimate Indoor Lighting from 3D Objects: https://arxiv.org/pdf/1806.03994
-
-NVS:
-
-NeRF:
+### NVS-NeRF:
 
 EgoNeRF: https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf
 
