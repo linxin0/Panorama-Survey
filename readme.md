@@ -120,9 +120,6 @@
 - [Editable Indoor Lighting Estimation (arXiv 2022)](https://arxiv.org/pdf/2211.03928)
 - [EverLight (ICCV 2023)](https://openaccess.thecvf.com/content/ICCV2023/papers/Dastjerdi_EverLight_Indoor-Outdoor_Editable_HDR_Lighting_Estimation_ICCV_2023_paper.pdf)
 - [Multi-camera Lighting Estimation (ACM TOG 2023)](https://dl.acm.org/doi/pdf/10.1145/3572864.3580337)
-
-### Completion:
-
 - [Neural Illumination](https://openaccess.thecvf.com/content_CVPR_2019/papers/Song_Neural_Illumination_Lighting_Prediction_for_Indoor_Environments_CVPR_2019_paper.pdf)
 - [CleAR](https://arxiv.org/pdf/2411.02179)
 - [StyleLight](https://arxiv.org/pdf/2207.14811)
@@ -130,43 +127,70 @@
 - [Learning to Estimate Indoor Lighting from 3D Objects](https://arxiv.org/pdf/1806.03994)
 
 
+
+
+
+### Completion:
+
+- [Cylin-Painting (TIP 2023)](https://ieeexplore.ieee.org/abstract/document/10370742/)
+- [Dream360 (TVCG 2024)](https://arxiv.org/pdf/2401.10564)
+- [PanoDecouple (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zheng_Panorama_Generation_From_NFoV_Image_Done_Right_CVPR_2025_paper.pdf)
+- [PanoDiff (arXiv 2023)](https://arxiv.org/pdf/2308.14686)
+- [PanoDiffusion (arXiv 2023)](https://arxiv.org/pdf/2307.03177)
+- [Diverse Plausible 360° Outpainting (Akimoto et al., CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Akimoto_Diverse_Plausible_360-Degree_Image_Outpainting_for_Efficient_3DCG_Background_Creation_CVPR_2022_paper.pdf)
+- [BIPS (ECCV 2022)](https://arxiv.org/pdf/2112.06179)
+- [2S-ODIS (ECCV 2024)](https://arxiv.org/pdf/2409.09969)
+- [ImmerseGAN (3DV 2022)](https://arxiv.org/pdf/2204.07286)
+- [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
+
+
+
+
+
+
+
 ### NVS-NeRF:
 
 - [EgoNeRF (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Choi_Balanced_Spherical_Grid_for_Egocentric_View_Synthesis_CVPR_2023_paper.pdf)  
 - [PanoGRF (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/16049e0c3f47899091ac46f8b3afb178-Paper-Conference.pdf)  
-- [Omni-NeRF (Inria)](https://inria.hal.science/hal-03646688/document)  
+- [Omni-NeRF (ICME 2022)](https://inria.hal.science/hal-03646688/document)  
 - [OmniLocalRF (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Choi_OmniLocalRF_Omnidirectional_Local_Radiance_Fields_from_Dynamic_Videos_CVPR_2024_paper.pdf)  
-- [360FusionNeRF](https://arxiv.org/pdf/2209.14265)  
-- [PERF](https://arxiv.org/pdf/2310.16831)  
-- [PanoHDR-NeRF](https://arxiv.org/pdf/2208.07903)  
-- [360Roam](https://arxiv.org/pdf/2208.02705)  
+- [360Roam (arXiv 2022)](https://arxiv.org/pdf/2208.02705)  
+- [360FusionNeRF (IROS 2023)](https://arxiv.org/pdf/2209.14265)  
+- [PERF (TPAMI 2024)](https://arxiv.org/pdf/2310.16831)  
+- [PanoHDR-NeRF (arXiv 2022)](https://arxiv.org/pdf/2208.07903)  
+
 
 ### NVS-3DGS:
 
-- [360-GS](https://arxiv.org/pdf/2402.00763)  
-- [OmniGS](https://arxiv.org/pdf/2404.03202)  
-- [ODGS (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/6882dbdc34bcd094e6f858c06ce30edb-Paper-Conference.pdf)  
-- [TPGS](https://arxiv.org/pdf/2504.09062)  
+360-GS[273],ODGS[274],PanSplat [275],OmniGS[276],Splatter-360[277],OmniSplat [278],TPGS[279],ErpGS[280],OB3D[281]
+
+- [360-GS (arXiv 2024)](https://arxiv.org/pdf/2402.00763)
+- [ODGS (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/6882dbdc34bcd094e6f858c06ce30edb-Paper-Conference.pdf)
+- [PanSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf)  
+- [OmniGS (arXiv 2024)](https://arxiv.org/pdf/2404.03202)   
 - [Splatter-360 (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Chen_Splatter-360_Generalizable_360_Gaussian_Splatting_for_Wide-baseline_Panoramic_Images_CVPR_2025_paper.pdf)  
 - [OmniSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Lee_OmniSplat_Taming_Feed-Forward_3D_Gaussian_Splatting_for_Omnidirectional_Images_with_CVPR_2025_paper.pdf)  
-- [PanSplat (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_PanSplat_4K_Panorama_Synthesis_with_Feed-Forward_Gaussian_Splatting_CVPR_2025_paper.pdf)  
-- [OB3D](https://arxiv.org/pdf/2505.20126)  
-- [ErpGS](https://arxiv.org/pdf/2505.19883)  
+- [TPGS (arXiv 2025)](https://arxiv.org/pdf/2504.09062)
+- [ErpGS (arXiv 2025)](https://arxiv.org/pdf/2505.19883) 
+- [OB3D (arXiv 2025)](https://arxiv.org/pdf/2505.20126)  
+ 
 
 ### Lightweight:
 
-- [OmniSyn](https://arxiv.org/pdf/2202.08752)  
+- [OmniSyn (VRW 2022)](https://arxiv.org/pdf/2202.08752)  
 - [SOMSI (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Habtegebrial_SOMSI_Spherical_Novel_View_Synthesis_With_Soft_Occlusion_Multi-Sphere_Images_CVPR_2022_paper.pdf)  
-- [Casual 6-DoF](https://arxiv.org/pdf/2203.16756)  
-
+- [Casual 6-DoF (TVCG 2022)](https://arxiv.org/pdf/2203.16756)  
 
 
 ### AIGC:
 
-- [DreamScene360](https://arxiv.org/pdf/2404.06903)
-- [SceneDreamer360](https://arxiv.org/pdf/2408.13711)
-- [4K4DGen](https://arxiv.org/pdf/2406.13527)
-- [HoloTime](https://arxiv.org/pdf/2504.21650)
+DreamScene360[285],SceneDreamer360[286],4K4DGen[287],HoloTime[288],Scene4U[289]
+
+- [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
+- [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
+- [4K4DGen (ICLR 2025)](https://arxiv.org/pdf/2406.13527)
+- [HoloTime (ACMMM 2025)](https://arxiv.org/pdf/2504.21650)
 - [Scene4U (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Huang_Scene4U_Hierarchical_Layered_3D_Scene_Reconstruction_from_Single_Panoramic_Image_CVPR_2025_paper.pdf)
 
 
@@ -175,8 +199,8 @@
 ### Text to image:
 
 
-- [DreamScene360](https://arxiv.org/pdf/2404.06903)
-- [SceneDreamer360](https://arxiv.org/pdf/2408.13711)
+- [DreamScene360 (ECCV 2024)](https://arxiv.org/pdf/2404.06903)
+- [SceneDreamer360 (arXiv 2024)](https://arxiv.org/pdf/2408.13711)
 - [LayerPano3D](https://arxiv.org/pdf/2408.13252)
 - [HoloDreamer](https://arxiv.org/pdf/2407.15187)
 - [SphereDiffusion (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/28429)
