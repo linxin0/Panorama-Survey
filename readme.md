@@ -81,7 +81,6 @@
 - [Yang et al. (arXiv 2025)](https://arxiv.org/pdf/2506.21925)
 
 ### Video
-
 - [OV-PSNR (TMM, 2020)](https://ieeexplore.ieee.org/abstract/document/9296376/)
 - [V-CNN (CVPR, 2019)](https://ieeexplore.ieee.org/abstract/document/8953510/)
 - [360-VQA (ICME, 2020)](https://infoscience.epfl.ch/server/api/core/bitstreams/5f92fd75-54b3-4d3d-b9ce-fb8ffabc2b0e/content)
@@ -89,10 +88,100 @@
 - [NR-OVQA (Optik, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0030402620317046)
 
 
+## Segmentation
 
+- [DensePASS (ITSC 2021)](https://arxiv.org/pdf/2108.06383)
+- [DPPASS (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf)
+- [Trans4PASS (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Bending_Reality_Distortion-Aware_Transformers_for_Adapting_to_Panoramic_Semantic_Segmentation_CVPR_2022_paper.pdf)
+- [Trans4PASS+ (TPAMI 2024)](https://arxiv.org/pdf/2207.11860)
+- [360SFUDA (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Zheng_Semantics_Distortion_and_Style_Matter_Towards_Source-free_UDA_for_Panoramic_CVPR_2024_paper.pdf)
+- [360SFUDA++ (TPAMI 2024)](https://arxiv.org/pdf/2404.16501)
+- [Yang et al. - Omnisupervised Semantic Segmentation (TITS 2020)](https://www.researchgate.net/profile/Kailun-Yang/publication/345419595_Omnisupervised_Omnidirectional_Semantic_Segmentation/links/609daf06458515c2658cb643/Omnisupervised-Omnidirectional-Semantic-Segmentation.pdf)
+- [GoodSAM (CVPR 2024)](https://arxiv.org/pdf/2403.16370)
+- [GoodSAM++ (arXiv 2024)](https://arxiv.org/pdf/2408.09115)
+- [OmniSAM (arXiv 2025)](https://arxiv.org/pdf/2503.07098)
+- [PASS (TITS 2019)](https://core.ac.uk/download/pdf/524787714.pdf)
+- [DS-PASS (IV 2020)](https://arxiv.org/pdf/1909.07721)
+- [DDCNet (TIM 2022)](https://ieeexplore.ieee.org/abstract/document/9667494/)
+- [Zheng et al. (WACV 2023)](https://openaccess.thecvf.com/content/WACV2023/papers/Zheng_Complementary_Bi-Directional_Feature_Compression_for_Indoor_360deg_Semantic_Segmentation_With_WACV_2023_paper.pdf)
+- [DeepPanoContext (ICCV 2021)](https://openaccess.thecvf.com/content/ICCV2021/papers/Zhang_DeepPanoContext_Panoramic_3D_Scene_Understanding_With_Holistic_Scene_Context_Graph_ICCV_2021_paper.pdf)
+- [HexRUNet (ICCV 2019)](https://openaccess.thecvf.com/content_ICCV_2019/papers/Zhang_Orientation-Aware_Semantic_Segmentation_on_Icosahedron_Spheres_ICCV_2019_paper.pdf)
+- [PRF (TITS 2023)](https://arxiv.org/pdf/2206.10711)
+- [PanoVOS (ECCV 2024)](https://arxiv.org/pdf/2309.12303)
+- [Pano-SfMLearner (IEEE SPL 2021)](https://ieeexplore.ieee.org/abstract/document/9406330/)
+- [OASS (ECCV 2024)](https://arxiv.org/pdf/2407.02182)
+- [OOOPS (ECCV 2024)](https://arxiv.org/pdf/2407.02685)
+
+## Mapping
+- [360Mapper (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Teng_360BEV_Panoramic_Semantic_Mapping_for_Indoor_Birds-Eye_View_WACV_2024_paper.pdf)  
+- [OneBEV (ACCV 2024)](https://openaccess.thecvf.com/content/ACCV2024/papers/Wei_OneBEV_Using_One_Panoramic_Image_for_BirdAos-Eye-View_Semantic_Mapping_ACCV_2024_paper.pdf)  
+- [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)  
+
+## Detection
+- [Multi-Projection YOLO (ICPR 2018)](https://arxiv.org/pdf/1805.08009)  
+- [RepR-CNN (AAAI 2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6995)  
+- [SphereNet (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
+- [SPHCONV (NeurIPS 2017)](https://proceedings.neurips.cc/paper/2017/file/0c74b7f78409a4022a2c4c5a5ca3ee19-Paper.pdf)  
+- [Curved-Space Faster R-CNN (ICASSP 2019)](https://www.cs.nthu.edu.tw/~lai/pdf/publications/2019/Object_Detection_in_Curved_Space_for_360-Degree_Camera.pdf)  
+- [MS-RPN (IET Computer Vision 2019)](https://ietresearch.onlinelibrary.wiley.com/doi/pdf/10.1049/iet-cvi.2018.5304)  
+- [PDAT (arXiv 2025)](https://arxiv.org/pdf/2503.14228)  
+- [PanoGlassNet (TIM 2024)](https://ieeexplore.ieee.org/abstract/document/10504145)  
+- [UnbiasedIoU (AAAI 2022)](https://ojs.aaai.org/index.php/AAAI/article/view/19929)  
+- [FoV-IoU (TIP 2023)](https://www.academia.edu/download/85054461/2202.03176v1.pdf)  
+- [Sph2Pob (IJCAI 2023)](https://www.ijcai.org/proceedings/2023/0137.pdf)  
+
+## Tracking
+
+- [Jiang et al. (TIM 2021)](https://ieeexplore.ieee.org/abstract/document/9335293/)  
+- [MMPAT (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)  
+- [CC3DT (arXiv 2022)](https://arxiv.org/pdf/2212.01247)  
+- [360VOT (ICCV 2023)](http://openaccess.thecvf.com/content/ICCV2023/papers/Huang_360VOT_A_New_Benchmark_Dataset_for_Omnidirectional_Visual_Object_Tracking_ICCV_2023_paper.pdf)  
+- [360VOTS (arXiv 2024)](https://arxiv.org/pdf/2404.13953)  
+- [Luo et al. (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.pdf)
+
+
+## PoseEstimation
+
+- [CoVisPose (ECCV 2022)](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)  
+- [Graph-CoVis (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)  
+- [PanoPose (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf)
+
+##  SaliencyPrediction
+
+### Image
+- [SalNet (Signal Processing: Image Communication, 2018)](https://arxiv.org/pdf/1709.06505)  
+- [Suzuki et al. (SMC, 2018)](https://arxiv.org/pdf/1807.06329)  
+- [Dai et al. (ICASSP, 2020)](https://ieeexplore.ieee.org/abstract/document/9053888/)  
+- [Djemai et al. (ISCAS, 2020)](https://arxiv.org/pdf/2002.09196)  
+- [SalGAN360 (ICMEW, 2018)](http://openhevc.insa-rennes.fr/wp-content/uploads/2018/07/camera-ready_icme2018template.pdf)  
+- [SalbiNet (VR, 2020)](https://ieeexplore.ieee.org/abstract/document/9089519)  
+- [Dedhia et al. (ICASSP, 2019)](https://arxiv.org/pdf/1903.01380)  
+- [SalGCN (ACMMM, 2020)](https://dl.acm.org/doi/abs/10.1145/3394171.3413733)  
+- [SalReGCN360 (TCSVT, 2022)](https://ieeexplore.ieee.org/abstract/document/9852252/)  
+- [SalGFCN (VCIP, 2021)](https://ieeexplore.ieee.org/abstract/document/9675373/)  
+- [GBCNN (TCSVT, 2021)](https://drive.google.com/file/d/1KpfyuzRSJg87zk41jphNkmgU2lvzowIU/view)  
+- [Zhu et al. (ICME, 2021)](https://drive.google.com/file/d/1m-Px48yeG_inPyi8_Bk_dYL8DWOyRh1f/view)  
+- [RANSP (Neurocomputing, 2021)](https://drive.google.com/file/d/1yz1g2ca6yEsy2xuY2un5JQWh7bMXPudZ/view)  
+- [Zhu et al. (ICPR, 2021)](https://ieeexplore.ieee.org/abstract/document/9412001/)  
+- [Abreu et al. (QoMEX, 2017)](https://d1wqtxts1xzle7.cloudfront.net/109434453/Abreu2017Look-libre.pdf?1703281511=&response-content-disposition=inline%3B+filename%3DLook_around_you_Saliency_maps_for_omnidi.pdf&Expires=1754478656&Signature=IPoyqhMN1qy-Ln~u1QirBbVcEgwSdOegbGc-50MJ36j4QGHwFLDmhx-XAIJt-DlY06ES7BrEuR~cVtOgb1wswgrdLLEWxuwgvlQ-beMajgj8BbMH8RcrgMsCDmEwcTMyuiQbYd3vZHvKp5Vw8KgJ0CqGmFyeopjgqvEtog0zX~fB4pkRmmVeFS54YSFJWE~gkU0z6L7RpfgX3J8x~ynyyLbUg81YLKrmmrQJ6wjuuco54nsqmPITdQ0nXk5VJfi4FWWE9zBnMi5mBrj9nSVsIMRux9zVcciQGS1kqm0G2SQXQ1PhvxNLm0zDxlVuU4qkuuOKU61CS41t3~PqEL2HFA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  
+- [Zhu et al. (Signal Processing: Image Communication, 2018)](https://drive.google.com/file/d/1eEJ3-eLAdLDhJu8VFeYBRlMb9p-J8ny3/view)  
+- [Bur et al. (ICPR, 2006)](https://d1wqtxts1xzle7.cloudfront.net/42320377/2006-ICPR-libre.pdf?1454870019=&response-content-disposition=inline%3B+filename%3DRobot_Navigation_by_Panoramic_Vision_and.pdf&Expires=1754478718&Signature=GH-ABTTkZ~0W6kAIx7llzfvjJuCu7y9hZiDJLpyu9JVbOidKqYb1EApf2bNQDth9YKM4o2DCiYR01JGonkFQzD5KPjG7UaCKeG2stCfNbvyO33-sY30pVQKTqw7c6YuEWRw5Nqm~hYs55Zectq0gJY7tRK1Udvi2VKrDpyTFI6oigw55qv0VgPGPUEH~ZwZueU8MFXvRucGlwwOvbtjpfzKe1Y0AaDp5uHnxTRKUM3PUEi2ep0CVwlfVjKNwitE6AHwyUNumRdckW0zpDN6NzQOCHPLAIVb55JkczeHAsUhk1kDFpfBais0JM8Y70xLUYPP4Hi6oR9LpM9lXUP64Iw__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)  
+- [Bogdanova et al. (TIP, 2008)](http://wwwa.unine.ch/parlab/pub/pdf/2008-TIP.pdf)
+
+
+### Video
+
+- [PanoSalNet (ACMMM, 2018)](https://mason.gmu.edu/~zyan4/papers/panosalnet_mm18.pdf)  
+- [Cheng et al. (CVPR, 2018)](https://openaccess.thecvf.com/content_cvpr_2018/papers/Cheng_Cube_Padding_for_CVPR_2018_paper.pdf)  
+- [MT-DNN (TMM, 2020)](https://ieeexplore.ieee.org/abstract/document/9072511/)  
+- [DHP (TPAMI, 2018)](https://arxiv.org/pdf/1710.10755)  
+- [ATSal (ICPR, 2021)](https://arxiv.org/pdf/2011.10600)  
+- [Guo et al. (ACMMM, 2024)](https://openreview.net/pdf?id=0Q9zTGHOda)  
+- [SphericalU-Net (ECCV, 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Ziheng_Zhang_Saliency_Detection_in_ECCV_2018_paper.pdf)  
+- [360Spred (TCSVT, 2024)](https://ieeexplore.ieee.org/abstract/document/10542218)
+  
 
 ## Layout Estimation
-
 - [DuLa-Net (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_DuLa-Net_A_Dual-Projection_Network_for_Estimating_Room_Layouts_From_a_CVPR_2019_paper.pdf)
 - [HorizonNet (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_HorizonNet_Learning_Room_Layout_With_1D_Representation_and_Pano_Stretch_CVPR_2019_paper.pdf)
 - [LED2Net (arXiv 2021)](https://arxiv.org/pdf/2104.00568)
