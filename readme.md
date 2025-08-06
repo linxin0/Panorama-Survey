@@ -139,7 +139,7 @@
 - [Luo et al. (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.pdf)
 
 
-## PoseEstimation
+## Pose Estimation
 
 - [CoVisPose (ECCV 2022)](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)  
 - [Graph-CoVis (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)  
@@ -296,10 +296,6 @@
 - [2S-ODIS (ECCV 2024)](https://arxiv.org/pdf/2409.09969)
 - [ImmerseGAN (3DV 2022)](https://arxiv.org/pdf/2204.07286)
 - [AOG-Net (AAAI 2024)](https://ojs.aaai.org/index.php/AAAI/article/view/29332)
-
-
-
-
 
 
 
