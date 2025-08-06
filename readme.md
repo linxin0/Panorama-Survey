@@ -1,5 +1,4 @@
-# From Perspective to Panorama Survey.
-
+# Bridging the Gap: A Comprehensive Survey from Perspective to Panoramic Vision.
 
 ## Super Resolution
 
