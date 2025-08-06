@@ -10,7 +10,7 @@
 - [OSRGAN (International Workshop on Multimedia Signal Processing 2019)](https://arxiv.org/pdf/1908.04297)
 - [OSRT (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Yu_OSRT_Omnidirectional_Image_Super-Resolution_With_Distortion-Aware_Transformer_CVPR_2023_paper.pdf)
 - [An et al. (ICIP 2023)](https://ieeexplore.ieee.org/abstract/document/10222760/)
-- [OPDN (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.pdf)
+- [OPDN (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/NTIRE/papers/Sun_OPDN_Omnidirectional_Position-Aware_Deformable_Network_for_Omnidirectional_Image_Super-Resolution_CVPRW_2023_paper.pdf)
 - [FATO (ACMMM Asia 2024)](https://dl.acm.org/doi/pdf/10.1145/3696409.3700232)
 - [GDGT-OSR (TCSVT 2025)](https://arxiv.org/pdf/2406.10869)
 - [Cao et al. (Signal, Image and Video Processing, 2025)](https://link.springer.com/article/10.1007/s11760-025-03963-6)
@@ -133,7 +133,7 @@
 ## Tracking
 
 - [Jiang et al. (TIM 2021)](https://ieeexplore.ieee.org/abstract/document/9335293/)  
-- [MMPAT (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)  
+- [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)  
 - [CC3DT (arXiv 2022)](https://arxiv.org/pdf/2212.01247)  
 - [360VOT (ICCV 2023)](http://openaccess.thecvf.com/content/ICCV2023/papers/Huang_360VOT_A_New_Benchmark_Dataset_for_Omnidirectional_Visual_Object_Tracking_ICCV_2023_paper.pdf)  
 - [360VOTS (arXiv 2024)](https://arxiv.org/pdf/2404.13953)  
@@ -146,7 +146,7 @@
 - [Graph-CoVis (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)  
 - [PanoPose (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf)
 
-##  SaliencyPrediction
+##  Saliency Prediction
 
 ### Image
 - [SalNet (Signal Processing: Image Communication, 2018)](https://arxiv.org/pdf/1709.06505)  
@@ -214,7 +214,7 @@
 ## Keypoint Matching
 - [SPHORB (IJCV 2015)](https://cic.tju.edu.cn/faculty/lwan/paper/SPHORB/pdf/SPHORB-final-small.pdf)
 - [Chuang et al. (PE&RS 2018)](https://www.ingentaconnect.com/contentone/asprs/pers/2018/00000084/00000001/art00012?crawler=true&mimetype=application/pdf)
-- [PanoPoint (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)
+- [PanoPoint (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)
 - [SphereGlue (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)
 - [EDM (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_EDM_Equirectangular_Projection-Oriented_Dense_Kernelized_Feature_Matching_CVPR_2025_paper.pdf)
 
@@ -426,7 +426,7 @@
 - [Zhao et al. (arXiv 2022)](https://arxiv.org/pdf/2212.02757)
 - [Bernreiter et al. (ICRA 2021)](https://arxiv.org/pdf/2104.10067)
 - [PanoramicVO (arXiv 2024)](https://arxiv.org/pdf/2409.09287)
-- [MMPAT (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
+- [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
 
 
 ### Text:
