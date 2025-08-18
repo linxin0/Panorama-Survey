@@ -2,7 +2,7 @@
 
 ## Visual Quality Enhancement
 
-## Super Resolution
+### Super Resolution
 
 ### Image:
 
