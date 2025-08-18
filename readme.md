@@ -1,4 +1,4 @@
-# Bridging the Gap: A Comprehensive Survey from Perspective to Panoramic Vision.
+# One Flight Over the Gap: A Survey from Perspective to Omnidirectional Vision.
 
 ## Visual Quality Enhancement
 
