@@ -120,14 +120,43 @@
   </section>
 
   <!-- Tasks -->
-  <section>
-    <h2>Panoramic Tasks</h2>
-    <div class="grid">
-      <div class="card"><img src="fig1.png" alt="Imaging Systems"><p>Panoramic Imaging Systems</p></div>
-      <div class="card"><img src="fig2.png" alt="Projection Models"><p>Projection Models (ERP, CMP, TP, etc.)</p></div>
-      <div class="card"><img src="fig3.png" alt="Task Map"><p>Panoramic Vision Task Map</p></div>
+<section>
+  <h2>Panoramic Tasks</h2>
+  <div class="grid">
+    <div class="card">
+      <img src="visual quality.png" alt="Imaging Systems">
+      <p>Panoramic Imaging Systems</p>
     </div>
-  </section>
+    <div class="card">
+      <img src="visual understanding.png" alt="Projection Models">
+      <p>Projection Models (ERP, CMP, TP, etc.)</p>
+    </div>
+    <div class="card">
+      <img src="visual generation.png" alt="Task Map">
+      <p>Panoramic Vision Task Map</p>
+    </div>
+    <div class="card">
+      <img src="multimodel.png" alt="Applications">
+      <p>Applications</p>
+    </div>
+  </div>
+</section>
+
+<style>
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr); /* 两列 */
+    gap: 20px; /* 卡片之间的间距 */
+  }
+  .card {
+    text-align: center;
+  }
+  .card img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+</style>
 
   <!-- Citation -->
   <section>
