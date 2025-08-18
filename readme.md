@@ -35,7 +35,7 @@
 - [Wang et al. (BDIOT 2023)](https://dl.acm.org/doi/abs/10.1145/3617695.3617721)
 
 
-## Reflection Removal:
+### Reflection Removal:
 
 
 - [Hong et al. (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Hong_Panoramic_Image_Reflection_Removal_CVPR_2021_paper.pdf)
@@ -43,7 +43,7 @@
 - [ZS360 (ECCV 2022)](https://link.springer.com/chapter/10.1007/978-3-031-19800-7_31)
 - [Park et al. (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Park_Fully-Automatic_Reflection_Removal_for_360-Degree_Images_WACV_2024_paper.pdf)
 
-## Restoration
+### Restoration
 
 ### Denoising
 
@@ -61,7 +61,7 @@
 ### Dehazing
 - [Zhao et al. (TVCG 2023)](https://ieeexplore.ieee.org/abstract/document/10005621/)
 
-## Quality Assessment
+### Quality Assessment
 
 ### Image
 - [MC360IQA (IEEE Journal of Selected Topics in Signal Processing 2019)](https://drive.google.com/file/d/1EeJ8lzKMrFb5OKRa2xAh99NFNYzieoOn/view)
@@ -88,9 +88,9 @@
 - [CIQNet (IEEE Transactions on Broadcasting, 2024)](https://ieeexplore.ieee.org/abstract/document/10380455/)
 - [NR-OVQA (Optik, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0030402620317046)
 
-## Visual Understanding
+### Visual Understanding
 
-## Segmentation
+### Segmentation
 
 - [DensePASS (ITSC 2021)](https://arxiv.org/pdf/2108.06383)
 - [DPPASS (CVPR 2023)](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Both_Style_and_Distortion_Matter_Dual-Path_Unsupervised_Domain_Adaptation_for_CVPR_2023_paper.pdf)
@@ -114,12 +114,12 @@
 - [OASS (ECCV 2024)](https://arxiv.org/pdf/2407.02182)
 - [OOOPS (ECCV 2024)](https://arxiv.org/pdf/2407.02685)
 
-## Mapping
+### Mapping
 - [360Mapper (WACV 2024)](https://openaccess.thecvf.com/content/WACV2024/papers/Teng_360BEV_Panoramic_Semantic_Mapping_for_Indoor_Birds-Eye_View_WACV_2024_paper.pdf)  
 - [OneBEV (ACCV 2024)](https://openaccess.thecvf.com/content/ACCV2024/papers/Wei_OneBEV_Using_One_Panoramic_Image_for_BirdAos-Eye-View_Semantic_Mapping_ACCV_2024_paper.pdf)  
 - [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)  
 
-## Detection
+### Detection
 - [Multi-Projection YOLO (ICPR 2018)](https://arxiv.org/pdf/1805.08009)  
 - [RepR-CNN (AAAI 2020)](https://ojs.aaai.org/index.php/AAAI/article/view/6995)  
 - [SphereNet (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Benjamin_Coors_SphereNet_Learning_Spherical_ECCV_2018_paper.pdf)  
@@ -132,7 +132,7 @@
 - [FoV-IoU (TIP 2023)](https://www.academia.edu/download/85054461/2202.03176v1.pdf)  
 - [Sph2Pob (IJCAI 2023)](https://www.ijcai.org/proceedings/2023/0137.pdf)  
 
-## Tracking
+### Tracking
 
 - [Jiang et al. (TIM 2021)](https://ieeexplore.ieee.org/abstract/document/9335293/)  
 - [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)  
@@ -142,13 +142,13 @@
 - [Luo et al. (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Luo_Omnidirectional_Multi-Object_Tracking_CVPR_2025_paper.pdf)
 
 
-## Pose Estimation
+### Pose Estimation
 
 - [CoVisPose (ECCV 2022)](https://fq.pkwyx.com/default/https/www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136920610.pdf)  
 - [Graph-CoVis (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Nejatishahidin_Graph-CoVis_GNN-Based_Multi-View_Panorama_Global_Pose_Estimation_CVPRW_2023_paper.pdf)  
 - [PanoPose (CVPR 2024)](https://openaccess.thecvf.com/content/CVPR2024/papers/Tu_PanoPose_Self-supervised_Relative_Pose_Estimation_for_Panoramic_Images_CVPR_2024_paper.pdf)
 
-##  Saliency Prediction
+###  Saliency Prediction
 
 ### Image
 - [SalNet (Signal Processing: Image Communication, 2018)](https://arxiv.org/pdf/1709.06505)  
@@ -183,7 +183,7 @@
 - [360Spred (TCSVT, 2024)](https://ieeexplore.ieee.org/abstract/document/10542218)
   
 
-## Layout Estimation
+### Layout Estimation
 - [DuLa-Net (CVPR 2019)](https://openaccess.thecvf.com/content_CVPR_2019/papers/Yang_DuLa-Net_A_Dual-Projection_Network_for_Estimating_Room_Layouts_From_a_CVPR_2019_paper.pdf)
 - [PSMNet (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Wang_PSMNet_Position-Aware_Stereo_Merging_Network_for_Room_Layout_Estimation_CVPR_2022_paper.pdf)
 - [uLayout (WACV 2025)](https://arxiv.org/pdf/2503.21562)
@@ -203,7 +203,7 @@
 - [SSLayout360 (CVPR 2021)](https://openaccess.thecvf.com/content/CVPR2021/papers/Tran_SSLayout360_Semi-Supervised_Indoor_Layout_Estimation_From_360deg_Panorama_CVPR_2021_paper.pdf)
 - [SemiLayout360 (arXiv 2024)](https://arxiv.org/pdf/2503.01114)
 
-## Optical Flow Estimation
+### Optical Flow Estimation
 
 - [Cubes3D (arXiv 2018)](https://arxiv.org/pdf/1804.09004)
 - [SimpleNet (3DC 2019)](https://ieeexplore.ieee.org/abstract/document/8885962)
@@ -213,21 +213,21 @@
 - [Yuan et al. (BMVC 2021)](https://researchportal.bath.ac.uk/files/228201204/360Flow_YuanRichardt_BMVC2021.pdf)
 - [Li et al. (ECCV 2022)](https://arxiv.org/pdf/2208.00776)
 
-## Keypoint Matching
+### Keypoint Matching
 - [SPHORB (IJCV 2015)](https://cic.tju.edu.cn/faculty/lwan/paper/SPHORB/pdf/SPHORB-final-small.pdf)
 - [Chuang et al. (PE&RS 2018)](https://www.ingentaconnect.com/contentone/asprs/pers/2018/00000084/00000001/art00012?crawler=true&mimetype=application/pdf)
 - [PanoPoint (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/OmniCV/papers/Zhang_PanoPoint_Self-Supervised_Feature_Points_Detection_and_Description_for_360deg_Panorama_CVPRW_2023_paper.pdf)
 - [SphereGlue (CVPRW 2023)](https://openaccess.thecvf.com/content/CVPR2023W/IMW/papers/Gava_SphereGlue_Learning_Keypoint_Matching_on_High_Resolution_Spherical_Images_CVPRW_2023_paper.pdf)
 - [EDM (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Jung_EDM_Equirectangular_Projection-Oriented_Dense_Kernelized_Feature_Matching_CVPR_2025_paper.pdf)
 
-## Decomposition 
+### Decomposition 
 
 - [Li et al. (CVPR 2021)](https://arxiv.org/pdf/2104.09886)
 - [PhyIR (CVPR 2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Li_PhyIR_Physics-Based_Inverse_Rendering_for_Panoramic_Indoor_Images_CVPR_2022_paper.pdf)
 - [Xu et al. (TVCG 2024)](https://d197for5662m48.cloudfront.net/documents/publicationstatus/170307/preprint_pdf/a3fb7c56754575bae23aeb6c7b28cd44.pdf)
   
 
-## Lighting Estimation
+### Lighting Estimation
 
 - [Weber et al. (3DV 2018)](https://arxiv.org/pdf/1806.03994)
 - [Gkitsas et al. (CVPRW 2020)](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w38/Gkitsas_Deep_Lighting_Environment_Map_Estimation_From_Spherical_Panoramas_CVPRW_2020_paper.pdf)
@@ -248,7 +248,7 @@
 - [CleAR (arXiv 2024)](https://arxiv.org/pdf/2411.02179)
 
   
-## Depth Estimation
+### Depth Estimation
 
 - [OmniDepth (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/NIKOLAOS_ZIOULIS_OmniDepth_Dense_Depth_ECCV_2018_paper.pdf)
 - [Tateno et al. (ECCV 2018)](https://openaccess.thecvf.com/content_ECCV_2018/papers/Keisuke_Tateno_Distortion-Aware_Convolutional_Filters_ECCV_2018_paper.pdf)
@@ -286,9 +286,9 @@
 - [DepthAnywhere (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/e6c2e85db1f1039177c4495ccd399ac4-Paper-Conference.pdf)
 - [PanDA (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf)
 
-## Visual Generation 
+### Visual Generation 
 
-## Completion:
+### Completion:
 
 - [Cylin-Painting (TIP 2023)](https://ieeexplore.ieee.org/abstract/document/10370742/)
 - [Dream360 (TVCG 2024)](https://arxiv.org/pdf/2401.10564)
@@ -303,7 +303,7 @@
 
 
 
-## NVS
+### NVS
 
 ### NeRF:
 
@@ -348,7 +348,7 @@
 
 
 
-##  Text-guided Generation
+###  Text-guided Generation
 
 ### T2I:
 
@@ -401,9 +401,9 @@
 - [PVSR-JSCC (IEEE)](https://ieeexplore.ieee.org/abstract/document/10966439/)
 
 
-## Multimodel
+### Multimodel
 
-## Audio:
+### Audio:
 
 - [Audible Panorama (CHI 2019)](https://dl.acm.org/doi/abs/10.1145/3290605.3300851)  
 - [Li et al. (TOG 2018)](https://arxiv.org/pdf/1805.04792)  
@@ -420,7 +420,7 @@
 
 
 
-## Ladar:
+### Ladar:
 
 - [SPOMP (TFR 2024)](https://arxiv.org/pdf/2407.09902)
 - [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)
@@ -432,7 +432,7 @@
 - [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
 
 
-## Text:
+### Text:
 
 - [VQA 360 (WACV 2020)](https://openaccess.thecvf.com/content_WACV_2020/papers/Chou_Visual_Question_Answering_on_360deg_Images_WACV_2020_paper.pdf)
 - [VIEW-QA (arXiv 2024)](https://arxiv.org/pdf/2405.19794)
