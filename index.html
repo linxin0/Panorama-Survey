@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Panorama Survey</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    body {
+      font-family: 'Inter', sans-serif;
+      margin: 0;
+      padding: 0;
+      color: #333;
+      background: #fafafa;
+    }
+    header {
+      text-align: center;
+      padding: 4rem 1rem;
+      background: linear-gradient(135deg, #1d3557, #457b9d);
+      color: white;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+      font-weight: 700;
+    }
+    header p {
+      margin: 0.5rem 0;
+      font-size: 1.2rem;
+    }
+    .btn {
+      display: inline-block;
+      margin: 1rem 0.5rem;
+      padding: 0.6rem 1.2rem;
+      background: #e63946;
+      color: white;
+      border-radius: 6px;
+      text-decoration: none;
+      font-weight: 600;
+    }
+    section {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem 1rem;
+    }
+    section h2 {
+      font-size: 1.8rem;
+      margin-bottom: 1rem;
+      border-bottom: 2px solid #eee;
+      padding-bottom: 0.5rem;
+    }
+    .grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 1rem;
+    }
+    .card {
+      background: white;
+      padding: 1rem;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .card img {
+      width: 100%;
+      border-radius: 6px;
+    }
+    footer {
+      text-align: center;
+      padding: 2rem;
+      font-size: 0.9rem;
+      background: #f1f1f1;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header>
+    <h1>Bridging the Gap: A Comprehensive Survey from Perspective to Omnidirectional Vision</h1>
+    <p>Xin Lin, Dizhe Zhang, Xian Ge, Xianshun Wang, Zhaoliang Wan, Xiangtai Li,<br>Wenjie Jiang, Bo Du, Truong Nguyen, Ming-Hsuan Yang, Lu Qi</p>
+    <a href="https://arxiv.org/abs/xxxx" class="btn">📄 Paper</a>
+    <a href="https://github.com/linxin0/Panorama-Survey" class="btn">💻 Code</a>
+  </header>
+
+  <!-- Overview -->
+  <section>
+    <h2>Overview</h2>
+    <p>
+      Panoramic vision enables full 360° perception for VR, robotics, and autonomous driving.
+      This survey systematically reviews panoramic imaging, projection models, and adaptation
+      from perspective to panorama. We summarize <b>20+ tasks, 300+ papers</b>, and discuss
+      emerging trends like diffusion, 3D Gaussian Splatting, and multimodal fusion.
+    </p>
+    <img src="teaser.png" alt="Teaser figure" style="width:100%; border-radius:8px; margin-top:1rem;">
+  </section>
+
+  <!-- Tasks -->
+  <section>
+    <h2>Panoramic Tasks</h2>
+    <div class="grid">
+      <div class="card">
+        <h3>📈 Visual Quality</h3>
+        <p>Super-resolution, denoising, deblurring, reflection removal, IQA.</p>
+      </div>
+      <div class="card">
+        <h3>🧭 Visual Understanding</h3>
+        <p>Segmentation, detection, layout estimation, optical flow, saliency.</p>
+      </div>
+      <div class="card">
+        <h3>🎨 Visual Generation</h3>
+        <p>Completion, novel view synthesis, text-to-360, AIGC-based panoramas.</p>
+      </div>
+      <div class="card">
+        <h3>🔊 Multimodal</h3>
+        <p>Fusion with text, audio, and LiDAR for embodied AI and navigation.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Figures -->
+  <section>
+    <h2>Representative Figures</h2>
+    <div class="grid">
+      <div class="card"><img src="fig1.png" alt="Imaging Systems"><p>Panoramic Imaging Systems</p></div>
+      <div class="card"><img src="fig2.png" alt="Projection Models"><p>Projection Models (ERP, CMP, TP, etc.)</p></div>
+      <div class="card"><img src="fig3.png" alt="Task Map"><p>Panoramic Vision Task Map</p></div>
+    </div>
+  </section>
+
+  <!-- Citation -->
+  <section>
+    <h2>Citation</h2>
+<pre>
+@article{lin2025panorama,
+  title={Bridging the Gap: A Comprehensive Survey from Perspective to Omnidirectional Vision},
+  author={Lin, Xin and Zhang, Dizhe and Ge, Xian and Wang, Xianshun and Wan, Zhaoliang and Li, Xiangtai and Jiang, Wenjie and Du, Bo and Nguyen, Truong and Yang, Ming-Hsuan and Qi, Lu},
+  journal={IEEE TPAMI},
+  year={2025}
+}
+</pre>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>© 2025 Panorama Survey Project | Maintained by <a href="https://github.com/linxin0">linxin0</a></p>
+  </footer>
+
+</body>
+</html>
