@@ -88,7 +88,7 @@
 - [CIQNet (IEEE Transactions on Broadcasting, 2024)](https://ieeexplore.ieee.org/abstract/document/10380455/)
 - [NR-OVQA (Optik, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0030402620317046)
 
-### Visual Understanding
+## Visual Understanding
 
 ### Segmentation
 
@@ -286,7 +286,7 @@
 - [DepthAnywhere (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/e6c2e85db1f1039177c4495ccd399ac4-Paper-Conference.pdf)
 - [PanDA (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf)
 
-### Visual Generation 
+## Visual Generation 
 
 ### Completion:
 
@@ -401,7 +401,7 @@
 - [PVSR-JSCC (IEEE)](https://ieeexplore.ieee.org/abstract/document/10966439/)
 
 
-### Multimodel
+## Multimodel
 
 ### Audio:
 
