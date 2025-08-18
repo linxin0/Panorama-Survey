@@ -1,5 +1,7 @@
 # Bridging the Gap: A Comprehensive Survey from Perspective to Panoramic Vision.
 
+## Visual Quality Enhancement
+
 ## Super Resolution
 
 ### Image:
@@ -86,6 +88,7 @@
 - [CIQNet (IEEE Transactions on Broadcasting, 2024)](https://ieeexplore.ieee.org/abstract/document/10380455/)
 - [NR-OVQA (Optik, 2021)](https://www.sciencedirect.com/science/article/abs/pii/S0030402620317046)
 
+## Visual Understanding
 
 ## Segmentation
 
@@ -283,6 +286,7 @@
 - [DepthAnywhere (NeurIPS 2024)](https://proceedings.neurips.cc/paper_files/paper/2024/file/e6c2e85db1f1039177c4495ccd399ac4-Paper-Conference.pdf)
 - [PanDA (CVPR 2025)](https://openaccess.thecvf.com/content/CVPR2025/papers/Cao_PanDA_Towards_Panoramic_Depth_Anything_with_Unlabeled_Panoramas_and_Mobius_CVPR_2025_paper.pdf)
 
+## Visual Generation 
 
 ## Completion:
 
@@ -379,6 +383,8 @@
 - [HoloDreamer (arXiv 2024)](https://arxiv.org/pdf/2407.15187)
 - [HoloTime (ACMMM 2025)](https://arxiv.org/pdf/2504.21650)
 - [4K4DGen (ICLR 2025)](https://arxiv.org/pdf/2406.13527)
+- [Matrix-3D (arXiv 2025)](https://arxiv.org/pdf/2508.08086)
+- [HunyuanWorld 1.0 (arXiv 2025)](https://arxiv.org/pdf/2507.21809)
 - [PanoGen (NeurIPS 2023)](https://proceedings.neurips.cc/paper_files/paper/2023/file/4522de4178bddb36b49aa26efad537cf-Paper-Conference.pdf)
 - [PanoGen++ (Neural Networks 2025)](https://arxiv.org/pdf/2503.09938)
 - [VLN-RAM (arXiv 2025)](https://arxiv.org/pdf/2503.18065)
@@ -395,7 +401,9 @@
 - [PVSR-JSCC (IEEE)](https://ieeexplore.ieee.org/abstract/document/10966439/)
 
 
-### Multimodel-audio:
+## Multimodel
+
+## Audio:
 
 - [Audible Panorama (CHI 2019)](https://dl.acm.org/doi/abs/10.1145/3290605.3300851)  
 - [Li et al. (TOG 2018)](https://arxiv.org/pdf/1805.04792)  
@@ -412,7 +420,7 @@
 
 
 
-### Ladar:
+## Ladar:
 
 - [SPOMP (TFR 2024)](https://arxiv.org/pdf/2407.09902)
 - [HumanoidPano (arXiv 2025)](https://arxiv.org/pdf/2503.09010)
@@ -424,7 +432,7 @@
 - [MMPAT (CVPRW 2021)](https://openaccess.thecvf.com/content/CVPR2021W/JRDB/papers/He_Know_Your_Surroundings_Panoramic_Multi-Object_Tracking_by_Multimodality_Collaboration_CVPRW_2021_paper.pdf)
 
 
-### Text:
+## Text:
 
 - [VQA 360 (WACV 2020)](https://openaccess.thecvf.com/content_WACV_2020/papers/Chou_Visual_Question_Answering_on_360deg_Images_WACV_2020_paper.pdf)
 - [VIEW-QA (arXiv 2024)](https://arxiv.org/pdf/2405.19794)
